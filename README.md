@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI for social good**
 
-- 💬 Ask me about **Python, R  Spatial Data Science and AI**
+- 💬 Ask me about **Python, R,  Spatial Data Science and AI**
 
 - 📫 How to reach me **francisco@diversa.studio**
 
