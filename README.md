@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, R,  Spatial Data Science and AI**
 
-- 🗻 Enthusiastic **climber** 
+- 🏔️ Enthusiastic **climber** 
 
 - 📫 How to reach me: **francisco@diversa.studio**
 
