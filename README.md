@@ -3,15 +3,17 @@
 
 - 🔭 I’m currently working on [Diversa](https://diversa.studio/)
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Creative Technology**
+- 👯 I’m looking to collaborate on **AI for social good**
 
-- 💬 Ask me about **Python, R and AI**
+- 💬 Ask me about **Python, R  Spatial Data Science and AI**
 
 - 📫 How to reach me **francisco@diversa.studio**
 
-- ⚡ Fun fact **Tetris lover**
+- ⚡ Fun fact **Tetris lover** 
+
+- 🗻 Enthusiastic **climber**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
