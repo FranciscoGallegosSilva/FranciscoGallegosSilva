@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Creative Technology**
 
-- 💬 Ask me about **Python, R**
+- 💬 Ask me about **Python, R and AI**
 
 - 📫 How to reach me **francisco@diversa.studio**
 
