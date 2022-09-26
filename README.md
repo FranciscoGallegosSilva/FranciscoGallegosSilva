@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **Python, R,  Spatial Data Science and AI**
 
-- 📫 How to reach me **francisco@diversa.studio**
+- 📫 How to reach me: **francisco@diversa.studio**
 
-- ⚡ Fun fact **Tetris lover** 
+- 🗻 Enthusiastic **climber** 
 
-- 🗻 Enthusiastic **climber**  
+- 🕹️ Bonus fact: **Tetris proficient** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
