@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Python, R,  Spatial Data Science and AI**
 
-- 📫 How to reach me: **francisco@diversa.studio**
-
 - 🗻 Enthusiastic **climber** 
+
+- 📫 How to reach me: **francisco@diversa.studio**
 
 - 🕹️ Bonus fact: **Tetris proficient** 
 
