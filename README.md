@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **francisco@diversa.studio**
 
-- 🕹️ Bonus fact: **Tetris proficient** 
+- 🕹️ Tetris **proficient** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
