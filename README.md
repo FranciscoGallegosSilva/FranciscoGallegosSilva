@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [Diversa](https://diversa.studio/)
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Multimodal AI Agents**
 
 - 👯 I’m looking to collaborate on **AI for social good**
 
-- 💬 Ask me about **Python, R,  Spatial Data Science and AI**
+- 💬 Ask me about **Python, R, Spatial Data Science and AI**
 
 - 🏔️ Enthusiastic **climber** 
 
-- 📫 How to reach me: **francisco@diversa.studio**
+- 📫 How to reach me: **francisco.gallegos.s@outlook.com**
 
 - 🕹️ Tetris **proficient** 
 
