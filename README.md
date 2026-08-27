@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A passionate Data Scientist from Ecuador</h3>
 
-- 🔭 I’m currently working on [Diversa](https://diversa.studio/)
-
-- 🌱 I’m currently learning **Multimodal AI Agents**
+- 🔭 I’m currently working on **Multimodal AI Agents**
 
 - 👯 I’m looking to collaborate on **AI for social good**
 
-- 💬 Ask me about **Python, R, Spatial Data Science and AI**
+- 💬 Ask me about **Python, Agentic apps, Data Science, Spatial DS**
 
-- 🏔️ Enthusiastic **climber** 
+- 🏔️ Enthusiastic **climber** and **drummer** 🥁
 
 - 📫 How to reach me: **francisco.gallegos.s@outlook.com**
 
